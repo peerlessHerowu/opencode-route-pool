@@ -1,0 +1,7 @@
+config.json
+pool-history.json
+*.log
+*.bak*
+.DS_Store
+opencode2api
+exit-check
